@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @atanas-i
+- 👋 Hi, I’m Atanasi Charle Zakaria
 - 👀 I’m interested in android development, kotlin programming language, mobile and software engineering in general
 - 🌱 I’m currently develop android apps in kotlin and jetpack compose
 - 💞️ I’m looking to collaborate on androids apps
