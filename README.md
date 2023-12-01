@@ -3,9 +3,9 @@
 - 🌱 I’m currently develop android apps in kotlin and jetpack compose
 - 💞️ I’m looking to collaborate on androids apps
 - 📫 You can reach me via
--  atanasi.dev@gmail.com
--  https://www.linkedin.com/in/atanasi-charle-6a60332a3/
--  @magimbijr_
+-  Email: atanasi.dev@gmail.com
+-  Linkedin: https://www.linkedin.com/in/atanasi-charle-6a60332a3/
+-  X: @magimbijr_
 
 <!---
 atanas-i/atanas-i is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
